@@ -1,0 +1,6 @@
+{
+  "name": "WeCare Hospitals",
+  "description": "A modern and clean healthcare platform for WeCare Hospitals, featuring department details, doctor bios, and a complete appointment booking and management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
